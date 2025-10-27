@@ -1,0 +1,33 @@
+html{
+  font-size:50px;
+}
+    
+
+
+div{
+      height: 100px;
+      width: 50%; 
+      border: 10px solid white;
+   
+}
+
+body{
+    background-color:black;
+    color: white;
+    font-size: 20px;
+    
+}
+
+.first{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+
+}
+.akiye{
+    border: 5px solid white;
+    width: 100%;
+}
